@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71c58006-f303-40f4-b254-addd6d95d875" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BigData.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BigData.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../参考文件/Neo4j-case-study-NBC-News-EN-US.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../参考文件/Neo4j-case-study-NBC-News-EN-US.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../开题报告-陈小龙.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../开题报告-陈小龙.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../开题报告-陈小龙.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../开题报告-陈小龙.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../开题注意事项（发学生）.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../开题注意事项（发学生）.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../武汉大学-硕士-学位论文-格式模板范文.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../武汉大学-硕士-学位论文-格式模板范文.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../研究生学位论文开题报告登记表.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../研究生学位论文开题报告登记表.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4cikm2020.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../4cikm2020.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquiTrussAttribute.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EquiTrussAttribute.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquiTrussAttribute.h" beforeDir="false" afterPath="$PROJECT_DIR$/EquiTrussAttribute.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/common.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/def.h" beforeDir="false" afterPath="$PROJECT_DIR$/def.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fptree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/fptree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fptree.h" beforeDir="false" afterPath="$PROJECT_DIR$/fptree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dblp_datasets.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../dblp_datasets.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/sfz01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/sfz01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/sfz02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/sfz02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/六级.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/六级.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/六级.jpg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/六级.jpg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/学位电子认证报告.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/学位电子认证报告.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/成绩单.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/成绩单.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/成绩单.png.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/成绩单.png.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/教育部学籍在线验证报告_陈小龙.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/教育部学籍在线验证报告_陈小龙.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/照片.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/照片.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picture/生活照.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../picture/生活照.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resume/关于三方推迟签约情况阐述.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resume/关于三方推迟签约情况阐述.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resume/情况说明.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resume/情况说明.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resume/证件照.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resume/证件照.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resume/陈小龙-15271834241.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resume/陈小龙-15271834241.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resume/陈小龙-15271834241.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resume/陈小龙-15271834241.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mfulyjLZpGSk4c6dyF8oKAmncK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c58006-f303-40f4-b254-addd6d95d875" name="Default Changelist" comment="" />
+      <created>1609897122175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609897122175</updated>
+      <workItem from="1609897123231" duration="1418000" />
+      <workItem from="1609898568244" duration="49000" />
+      <workItem from="1609898625646" duration="4282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2381" y="164" key="SettingsEditor" timestamp="1609898910429">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609898910429" />
+  </component>
+</project>
