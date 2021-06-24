@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(int argc, char **argv) 
+int main(int argc, char **argv)  // int argc, char* argv[]
 {
 	clock_t startTime = clock();
 	string str1 = string(argv[1]); // graph data file
@@ -72,6 +72,7 @@ int main(int argc, char **argv)
 
 	cout << "Enter 1 for CAC-MTIndexI, and 2 for CAC-MTIndexD: ";
 	cin >> selection;
+
 	FILE* TestDataFile = fopen(query, "r");
 	FILE* resultFile = fopen(result, "w");
 	FILE* detailFile = fopen(detail, "w");
@@ -110,6 +111,7 @@ int main(int argc, char **argv)
 		double time = -1;
 		int resultSize = -1;
 		clock_t startTime = clock();
+		// 1 for CAC-MTIndexI, and 2 for CAC-MTIndexD
 		if (selection == 2)
 		{
 			auto communities = obj.CAC_MTIndexD(k_value, q_vertex, SATR);
